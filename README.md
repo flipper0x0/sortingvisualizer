@@ -31,5 +31,11 @@ a simple c++ program to visualize different types of sorting.
    # Video  Tutorial on setup (not uploaded by me)
    ( Note: )
      ([Watch Here](https://www.youtube.com/watch?v=L9Rm5U8w6aE))
+# To-do
+  [✔] add more sorting algorithm
+ 
+  [  ] no. of comparsion made (count)
+  
+  [  ] timer to log time required to sort.
 
   
