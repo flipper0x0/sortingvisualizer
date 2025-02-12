@@ -1,5 +1,6 @@
 ## sortingvisualizer
-a simple c++ program to visualize different types of sorting.
+a simple c++ program to visualize different types of sorting. 
+[Watch the Demo video](https://drive.google.com/file/d/12ez9GTp83xrMiWynZx5GfHSODdxJ-kg6/view?usp=drive_link)
 ![image](https://github.com/user-attachments/assets/b963879b-e254-4ad5-ae0c-a8f8dfdd40f5)
 # Requirements:
 1. SDL2 (v2.0.10)
