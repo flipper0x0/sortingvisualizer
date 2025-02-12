@@ -28,7 +28,7 @@ a simple c++ program to visualize different types of sorting.
    ⁂ If you don't want to setup CodeBLock, Download this whole project as zip, then run CodeBlock probject (.cbp)  file `dsa_sorting.cbp`.
 
 
-   # Video  Tutorial on setup (not uploaded by me)
+   # Video  Tutorial on setup (credit: @codeincodeblock)
    ( Note: )
      ([Watch Here](https://www.youtube.com/watch?v=L9Rm5U8w6aE))
 # To-do
